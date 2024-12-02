@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="WHTMDT(ABC).us"tvg-name="US: ABC () I HD" tvg-logo="" group-title="US-Entertainment",US: Abc
-https://dai.google.com/linear/hls/pa/event/W89fvptnTLm8wLubb-vgyQ/stream/a3cae197-82cd-499b-80eb-9dac16f64764:TUL/variant/583c98cd23ff7e9f3af14c3cdeedc7c1/bandwidth/8683997.m3u8
+https://dai.google.com/linear/hls/pa/event/W89fvptnTLm8wLubb-vgyQ/stream/69ff3c8a-a773-44ec-b602-8a0aced9a3bb:TUL/variant/583c98cd23ff7e9f3af14c3cdeedc7c1/bandwidth/8683997.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"WGAL(NBC).us"-name="US: NBC () I HD" tvg-logo="" group-title="US-Entertainment",US: NBC
 
