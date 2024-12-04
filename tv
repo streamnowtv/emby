@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="WHTMDT(ABC).us"tvg-name="US: ABC () I HD" tvg-logo="" group-title="US-Entertainment",US: Abc
-https://live-b2.cf.dmcdn.net/sec2(Wk1gTse0makJUJaVn1ErFG3CR7QcHGMA6fwrhjJF70peQzWLqeqOrHemVk_BcN0lOlHjNijebDzCJWwrLaCqPbTNHgyMnp-o6Ym7Zu3Yj7dTqD_INMyUOGbGnPVnGKo551X-u0sjcmcMbq8TkVAkOQ)/cloud/3/x97jm3c/s/live-720.m3u8
+#EXTINF:-1 tvg-ID="WHTMDT(ABC).us"tvg-name="US: ABC™ () I HD" tvg-logo="" group-title="US-Entertainment",US: Abc™
+https://svod-fst.mlb.com/SLIVE/2024/2024-12/04/20241204-LIDOM-ESC-vs-EST-LIVE.m3u8
 
 #EXTINF:-1 tvg-ID=tvg"WGAL(NBC).us"-name="US: NBC () I HD" tvg-logo="" group-title="US-Entertainment",US: NBC
 
